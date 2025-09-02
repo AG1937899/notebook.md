@@ -1,8 +1,45 @@
 # My Coding Notebook
 ## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
+- [Flutter Notes](Flutter-notes)
+  - [What is Flutter](What-is-Flutter)
   - [Practice](#practice)
+  - [Key Terms and Definitions](Key-Terms-and-Definitions)
+  - [Notebook Style guide](Notebook-Style-guide)
+  - ## Flutter Notes
+
+### What is Flutter?
+- Definition:
+- Why is it useful?
+
+---
+
+### Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           | Basic building block of a Flutter app. Everything is a widget.                                                 |                                           |
+| MaterialApp      |The root of the app. Sets up routes and themes.                                                  |                                           |
+| Scaffold         |Provides basic visual layout-like a header,body,floating button                                                   |                                           |
+| StatelessWidget  |                                                  |                                           |
+| StatefulWidget   |                                                  |                                           |
+| Navigator        |                                                  |                                           |
+| AppBar           |                                                  |                                           |
+| Column           |                                                  |                                           |
+| Row              |                                                  |                                           |
+| Container        |                                                  |                                           |
+| Text             |                                                  |                                           |
+| Image.network    |                                                  |                                           |
+
+| Padding    |                    |                     |
+
+| Center      |                    |                     |
+
+---
+
+### Layout and Design Widgets
+- How do you center a widget?
+- How do you align something to the left or right?
+- What widget adds space around content?
 - [Day 2](#day-2)
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
