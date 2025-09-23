@@ -45,8 +45,8 @@
 | Widget           | Basic building block of a Flutter app. Everything is a widget.                                                 |                                           |
 | MaterialApp      |The root of the app. Sets up routes and themes.                                                  |                                           |
 | Scaffold         |Provides basic visual layout-like a header,body,floating button                                                   |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
+| StatelessWidget  |A widget that never changes (static content).                                                  |                                           |
+| StatefulWidget   |A class for widgets that can change while the app is running                                                  |                                           |
 | Navigator        |                                                  |                                           |
 | AppBar           |                                                  |                                           |
 | Column           |                                                  |                                           |
